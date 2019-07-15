@@ -1,0 +1,21 @@
+{
+  "name": "frontinsampa",
+  "version": "1.0.0",
+  "description": "Palestra - Nextjs",
+  "main": "index.js",
+  "author": "Wharley",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build && next export -o dist",
+    "now-dev": "next -p $PORT"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
