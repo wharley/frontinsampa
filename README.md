@@ -1,4 +1,4 @@
-# FrontInSampa - NextJs - A maneira mais fácil de começar um projeto ReactJS
+# NextJs - A maneira mais fácil de começar um projeto ReactJS
   Construímos um exemplo básico utilizando Next.js.
 
 # Clone o projeto
